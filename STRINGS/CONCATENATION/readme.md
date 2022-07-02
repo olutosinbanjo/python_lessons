@@ -64,3 +64,8 @@ Human Body : OPERATION: (f-string format) executed in 2.4000037228688598e-06 sec
 # Best format
 
 f-string formatting
+
+# Reference
+
+https://realpython.com/python-f-strings/
+
