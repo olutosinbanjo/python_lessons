@@ -33,7 +33,7 @@ HumanBody : OPERATION: (str.format)      executed in 4.0000013541430235e-06 seco
 HumanBody : OPERATION: (f-string format) executed in 1.6999983927235007e-06 seconds
 ```
 
-[string_concatenation_spaced.py]()
+[string_concatenation_spaced.py](https://github.com/olutosinbanjo/python_lessons/blob/0527cf131606948de8c54296fffa24d01c748064/STRINGS/CONCATENATION/string_concatenation_spaced.py)
 
 Test 1
 ```
