@@ -4,7 +4,7 @@ Joining two or more strings together
 
 # Test results
 
-[string_concatenation.py](STRINGS/CONCATENATION/string_concatenation.py)
+[string_concatenation.py](https://github.com/olutosinbanjo/python_lessons/blob/3cb4de39c42063a2f30853c6166892fc0dfd9102/STRINGS/CONCATENATION/string_concatenation.py)
 
 Test 1
 ```
