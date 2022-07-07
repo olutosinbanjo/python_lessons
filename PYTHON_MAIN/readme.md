@@ -1,4 +1,6 @@
-# __name__ == "__main__""
+# main function in python
+
+__name__ == "__main__"
 
 __name__ stands for double underscore name double underscore -> dunder name.
 
