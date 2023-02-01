@@ -33,7 +33,7 @@ Classes - Organize data, methods and functions.
 5. Implementation and Adaptation - Creating an interactable object. Creating an object is like the only way to use the model that has been created
 6. Transferability and Inheritance - Being related by propert(y)/(ies). The model (intinial representation of a thing - the parent model) should be able to transfer all or some of its properties to a daughter model and the daughter model should be able to accept it and also create something of its own, so that it is not exactly like the parent.
 7. Interaction - The communication of properties within the model
-8. Reaction - The response of the interactable object to a property of the model
+8. Reaction - The response of the interactable object to a property of the model. For a example - create an object and call a method on it, the object reacts accordingly to the method called on it.
 9.  Ownership - Property of the model. What makes this model this model. For example, why are you, YOU ? These properties can be - 
 10.  Data - Property of model
 11.  Methods - Property of the model
