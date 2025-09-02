@@ -1,6 +1,10 @@
 # Mini Example
 
-Using global variables across a project
+Using global variables across a project.
+
+# Project
+
+Adding two integers.
 
 # File structure
 
